@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Mon Jun 06 17:55:46 2022">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="544d35eb3ee14f9fa770f497b37cd859" type="ProjectID"/>
+<property name="ProjectIteration" value="4" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="3" type="JavaHandler"/>
+<property name="EditDelete" value="1" type="JavaHandler"/>
+<property name="NewProject" value="1" type="JavaHandler"/>
+<property name="RunImplementation" value="3" type="JavaHandler"/>
+<property name="ShowView" value="1" type="JavaHandler"/>
+<property name="SimulationClose" value="2" type="JavaHandler"/>
+<property name="SimulationRun" value="7" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="comparator.v, 148, 300" value="1" type="GuiResourceData"/>
+<property name="comparator.v, 155, 298" value="1" type="GuiResourceData"/>
+<property name="comparator.v, 186, 216" value="1" type="GuiResourceData"/>
+<property name="comparator.v, 28, 346" value="1" type="GuiResourceData"/>
+<property name="comparator.v, 57, 187" value="1" type="GuiResourceData"/>
+<property name="comparator.v, 68, 321" value="1" type="GuiResourceData"/>
+<property name="comparator.v, 70, 341" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 10, 231" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 10, 231, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 107, 151" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 111, 118" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 112, 213" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 116, 213" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 120, 162" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 126, 145" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 134, 282" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 137, 180" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 147, 124" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 148, 195" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 149, 263" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 351, 132, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 43, 296" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 51, 279" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 51, 279, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 52, 284" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 61, 334, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 65, 338" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 69, 75" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 70, 75, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 83, 41" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 85, 121" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 94, 111" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 94, 214, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 95, 114" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 95, 216" value="1" type="GuiResourceData"/>
+<property name="comparator_tbb.v, 97, 218" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="16" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="11" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>

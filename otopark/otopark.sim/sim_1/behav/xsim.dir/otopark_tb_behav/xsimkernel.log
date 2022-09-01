@@ -1,0 +1,7 @@
+Running: xsim.dir/otopark_tb_behav/xsimk.exe -simmode gui -wdb otopark_tb_behav.wdb -simrunnum 0 -socket 59783
+Design successfully loaded
+Design Loading Memory Usage: 23084 KB (Peak: 23084 KB)
+Design Loading CPU Usage: 280 ms
+Simulation completed
+Simulation Memory Usage: 23084 KB (Peak: 23084 KB)
+Simulation CPU Usage: 280 ms

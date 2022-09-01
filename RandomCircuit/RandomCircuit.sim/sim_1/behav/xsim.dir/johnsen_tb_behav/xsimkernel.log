@@ -1,0 +1,7 @@
+Running: xsim.dir/johnsen_tb_behav/xsimk.exe -simmode gui -wdb johnsen_tb_behav.wdb -simrunnum 0 -socket 49277
+Design successfully loaded
+Design Loading Memory Usage: 23120 KB (Peak: 23120 KB)
+Design Loading CPU Usage: 312 ms
+Simulation completed
+Simulation Memory Usage: 23120 KB (Peak: 23120 KB)
+Simulation CPU Usage: 312 ms

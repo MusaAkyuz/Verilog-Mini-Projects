@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Sun May 29 11:04:14 2022
+# Process ID: 16808
+# Current directory: C:/Users/musak/otopark/otopark.runs/impl_1
+# Command line: vivado.exe -log mainn.vdi -applog -messageDb vivado.pb -mode batch -source mainn.tcl -notrace
+# Log file: C:/Users/musak/otopark/otopark.runs/impl_1/mainn.vdi
+# Journal file: C:/Users/musak/otopark/otopark.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source mainn.tcl -notrace
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Netlist 29-17] Analyzing 1 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2016.1
+INFO: [Device 21-403] Loading part xc7a200tfbg676-2

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a200tfbg676-2" LaunchTime="1653437937">
+  <File Type="OPT-DCP" Name="tumleyenlicikarma_opt.dcp"/>
+  <File Type="ROUTE-STATUS-PB" Name="tumleyenlicikarma_route_status.pb"/>
+  <File Type="PA-TCL" Name="tumleyenlicikarma.tcl"/>
+  <File Type="RDI-RDI" Name="tumleyenlicikarma.vdi"/>
+  <File Type="PWROPT-DRC" Name="tumleyenlicikarma_drc_pwropted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="tumleyenlicikarma_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="tumleyenlicikarma_timing_summary_init.rpt"/>
+  <File Type="OPT-DRC" Name="tumleyenlicikarma_drc_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="tumleyenlicikarma_pwropt.dcp"/>
+  <File Type="OPT-HWDEF" Name="tumleyenlicikarma.hwdef"/>
+  <File Type="OPT-TIMING" Name="tumleyenlicikarma_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="tumleyenlicikarma_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="tumleyenlicikarma_placed.dcp"/>
+  <File Type="PLACE-IO" Name="tumleyenlicikarma_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="tumleyenlicikarma_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="tumleyenlicikarma_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="tumleyenlicikarma_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="tumleyenlicikarma_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="tumleyenlicikarma_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="tumleyenlicikarma_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="tumleyenlicikarma_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="tumleyenlicikarma_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="tumleyenlicikarma_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="tumleyenlicikarma_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="tumleyenlicikarma_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="tumleyenlicikarma_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-DCP" Name="tumleyenlicikarma_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="tumleyenlicikarma_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="tumleyenlicikarma_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="tumleyenlicikarma_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="tumleyenlicikarma_methodology_drc_routed.rpt"/>
+  <File Type="BG-BIT" Name="tumleyenlicikarma.bit"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="tumleyenlicikarma_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="tumleyenlicikarma_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="tumleyenlicikarma_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="tumleyenlicikarma_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="tumleyenlicikarma_route_status.rpt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="tumleyenlicikarma_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="tumleyenlicikarma_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="tumleyenlicikarma_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="tumleyenlicikarma_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="tumleyenlicikarma_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="tumleyenlicikarma_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="tumleyenlicikarma_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="tumleyenlicikarma_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="tumleyenlicikarma_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="tumleyenlicikarma_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIN" Name="tumleyenlicikarma.bin"/>
+  <File Type="BITSTR-MSK" Name="tumleyenlicikarma.msk"/>
+  <File Type="BITSTR-RBT" Name="tumleyenlicikarma.rbt"/>
+  <File Type="BITSTR-NKY" Name="tumleyenlicikarma.nky"/>
+  <File Type="BITSTR-BMM" Name="tumleyenlicikarma_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="tumleyenlicikarma.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="tumleyenlicikarma.sysdef"/>
+  <File Type="BG-BGN" Name="tumleyenlicikarma.bgn"/>
+  <File Type="BG-DRC" Name="tumleyenlicikarma.drc"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/tumleyenlicikarma.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/userDefinedPrimitives.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/whileForUsage.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/subtractor4bit.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/soru1.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mainCode.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/longversion4bitsubstractor.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/johnsondevresi.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/johnsoncounter.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/johnson.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/jkflipflop.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/halfadder.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/fulladder32bit.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/fulladder32.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/fulladder.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/dflipflop.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/counter.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/combo.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="tumleyenlicikarma"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2016"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
